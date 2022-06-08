@@ -13,8 +13,10 @@
 |:------------:|
 ||
 |Email me at|
+||
 |navaneethakrishnang99@gmail.com|
 ||
 |Reach me at|
+||
 |<a href="http://www.linkedin.com/in/navaneethakrishnan-g-877a04202"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1nc6VVPE32N0Ez53z-Iai-YTGFGG4sA8ujg&usqp=CAU"></a>|
 <hr>
