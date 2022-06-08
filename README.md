@@ -1,16 +1,12 @@
-### Hi there 👋
+<hr>  
 
-<!--
-**knavee12345/knavee12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|👋|Hi there, I’m Navaneethakrishnan |
+|:--:|:------------------------------------|
+|🔭 |I’m currently working on Python - SQL - C++.| 
+| 🌱| I’m currently learning Data Analytics.|
+| 👯| I’m looking to collaborate on open source projects written in Python and SQL.|
+| 🤔| I’m looking for help with Data Analytics.|
+| 📧| Mail me at : navaneethakrishnang99@gmail.com|  
+<hr>
+<a href="http://www.linkedin.com/in/navaneethakrishnan-g-877a04202"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1nc6VVPE32N0Ez53z-Iai-YTGFGG4sA8ujg&usqp=CAU"></a>
+<hr>
