@@ -1,22 +1,29 @@
-<hr>  
+<hr> 
 
-|👋|Hi there, I’m Navaneethakrishnan |
-|:--:|:------------------------------------|
-|🔭 |I’m currently working on Python - SQL - C++.| 
-| 🌱| I’m currently learning Data Analytics.|
-| 👯| I’m looking to collaborate on open source projects written in Python and SQL.|
-| 🤔| I’m looking for help with Data Analytics.|
-
-<hr>  
-
-|Contact|
-|:------------:|
-||
-|Email me at|
-||
-|navaneethakrishnang99@gmail.com|
-||
-|Reach me at|
-||
-|<a href="http://www.linkedin.com/in/navaneethakrishnan-g-877a04202"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1nc6VVPE32N0Ez53z-Iai-YTGFGG4sA8ujg&usqp=CAU"></a>|
+##  Hi there👋, I’m Navaneethakrishnan 
+<div>
+  🔭 I’m currently working on &emsp; &emsp;
+  <img src="https://freepngimg.com/thumb/python_logo/5-2-python-logo-png-image.png" height="48" />&emsp;
+  <img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" width="50" alt="centered image" /> &emsp;
+  <img src="https://www.freeiconspng.com/uploads/sql-database-icon-png-17.png" width="50"  alt="centered image" /> &emsp; 
+  
+</div>
 <hr>
+ 
+🌱 I’m currently learning Data Analytics. 
+<hr>
+👯 I’m looking to collaborate on open source projects written in Python and SQL.  
+<hr>
+🤔 I’m looking for help with Data Analytics.  
+
+<hr>  
+<div>
+  <h3>Contact</h3>
+  <a href="mailto:navaneethakrishnang99@gmail.com?subject=Mail From GitHub">
+    <img src="https://png2.cleanpng.com/sh/db31b95a2dfd3f0bc400221c10ccf959/L0KzQYm3U8MxN5huj5H0aYP2gLBuTfduaZpxRdV4bYD4hLb5Tflkd594Rd54Z3Awdb7oifwub55mgd42NXHldYHpUMliP5Q2SKY3MUW6SIa4V8YyPWM3TKI9MUC4RomAUb5xdpg=/kisspng-gmail-computer-icons-logo-email-gmail-5abe0b09a7c104.1578517615224041056871.png" height="50" alt="centered image"/>
+  </a>  &emsp;  &emsp;
+
+  <a style="allign:center;" href="http://www.linkedin.com/in/navaneethakrishnan-g-877a04202">
+  <img src="https://png2.cleanpng.com/sh/fd1cc139000b40b86f4904dcd1b2919e/L0KzQYm3V8EyN5hwi5H0aYP2gLBuTfxqdpxqfNt3LYPyc7rojL1ubZVueZ92YYLudcXwjvcua5DyiOd9ZYKwebT2jwMudJDsReVxYYLoPcH1h702amU6e9NvOUO6Qra5Vb40PGk3TaQ9MUG4Q4K6UMA3OGI3Sqg3cH7q/kisspng-linkedin-social-media-marketing-computer-icons-log-share-png-5b45caf9372e25.348252411531300601226.png" height="50" alt="centered image" />
+  </a>
+</div>
