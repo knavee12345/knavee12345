@@ -1,4 +1,4 @@
-<h5 align="center"> Hi there👋, I’m Navaneethakrishnan</h5>
+<h4 align="center"> Hi there👋, I’m Navaneethakrishnan</h4>
 <hr>
 <div align="center">
   <p align+"center">🔭 I’m currently working on </p> <br>
@@ -17,9 +17,40 @@
 <div align="center" >Portfolio : 
   <a align="center" href="https://knavee12345.github.io/portfolio/"><i>click here</i></a>
 </div>
+<hr>
+<div align="center">
+  <h4 align="center">Certifications</h4><br>
+  <table style="width:100%" align="center">
+  <tr>
+    <th>Name</th>
+    <th>Issuing Organization</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Python Core</td>
+    <td>SoloLearn</td>
+    <td><a href="https://github.com/knavee12345/knavee12345/blob/main/Certifications/Python%20Core-SoloLearn.png?raw=true">View</a</td>
+  </tr>
+  <tr>
+    <td>Python(Basics)</td>
+    <td>HackerRank</td>
+    <td><a href="https://github.com/knavee12345/knavee12345/blob/main/Certifications/Python(Basics)-HackerRank.png?raw=true">View</a></td>
+  </tr>
+  <tr>
+    <td>Python for Data Science</td>
+    <td>SoloLearn</td>
+    <td><a href="https://github.com/knavee12345/knavee12345/blob/main/Certifications/Python%20for%20Data%20Science--SoloLearn.png?raw=true">View</a></td>
+  </tr>
+  <tr>
+    <td>HTML</td>
+    <td>SoloLearn</td>
+    <td><a href="https://github.com/knavee12345/knavee12345/blob/main/Certifications/HTML-SoloLearn.jpg?raw=true">View</a></td>
+  </tr>
+  </table>
+</div>
+<hr>
 <div  align="center">
-  <h5  align="center" >Contact</h5>
-  <hr>
+  <h4  align="center" >Contact</h4><br>
   <a align="center" href="mailto:navaneethakrishnang99@gmail.com?subject=Mail From GitHub">
     <img src="https://github.com/knavee12345/portfolio/blob/main/Icons/gmail.png?raw=true" height="50" alt="centered image"/>
   </a> &emsp; &emsp;
