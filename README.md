@@ -28,22 +28,22 @@
   </tr>
   <tr>
     <td>Python Core</td>
-    <td>SoloLearn</td>
+    <td><img src=https://raw.githubusercontent.com/knavee12345/portfolio/9215032bc41b40fe221cc322caf397ec916a0da0/Icons/SoloLearn_logo.svg width="80" /></td>
     <td><a href="https://github.com/knavee12345/knavee12345/blob/main/Certifications/Python%20Core-SoloLearn.png?raw=true"><img src="https://github.com/knavee12345/knavee12345/blob/main/Certifications/Python%20Core-SoloLearn.png?raw=true" width="80" /></a</td>
   </tr>
   <tr>
     <td>Python(Basics)</td>
-    <td>HackerRank</td>
+    <td><img src=https://github.com/knavee12345/portfolio/blob/main/Icons/Hacker%20Rank.png?raw=true width="90" /></td>
     <td><a href="https://github.com/knavee12345/knavee12345/blob/main/Certifications/Python(Basics)-HackerRank.png?raw=true"><img src="https://github.com/knavee12345/knavee12345/blob/main/Certifications/Python(Basics)-HackerRank.png?raw=true" width="80"/></a></td>
   </tr>
   <tr>
     <td>Python for Data Science</td>
-    <td>SoloLearn</td>
+    <td><img src=https://raw.githubusercontent.com/knavee12345/portfolio/9215032bc41b40fe221cc322caf397ec916a0da0/Icons/SoloLearn_logo.svg width="80" /></td>
     <td><a href="https://github.com/knavee12345/knavee12345/blob/main/Certifications/Python%20for%20Data%20Science--SoloLearn.png?raw=true"><img src="https://github.com/knavee12345/knavee12345/blob/main/Certifications/Python%20for%20Data%20Science--SoloLearn.png?raw=true" width="80"/></a></td>
   </tr>
   <tr>
     <td>HTML</td>
-    <td>SoloLearn</td>
+    <td><img src=https://raw.githubusercontent.com/knavee12345/portfolio/9215032bc41b40fe221cc322caf397ec916a0da0/Icons/SoloLearn_logo.svg width="80" /></td>
     <td><a href="https://github.com/knavee12345/knavee12345/blob/main/Certifications/HTML-SoloLearn.jpg?raw=true"><img src="https://github.com/knavee12345/knavee12345/blob/main/Certifications/HTML-SoloLearn.jpg?raw=true" width="80"/></a></td>
   </tr>
   </table>
