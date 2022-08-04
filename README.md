@@ -18,6 +18,10 @@
   <a align="center" href="https://knavee12345.github.io/portfolio/"><i>click here</i></a>
 </div>
 <hr>
+<div align="center" >Project : 
+  <a align="center" href="https://knavee12345.github.io/depression-analysis/"><i>Depression Analysis and Prediction</i></a>
+</div>
+<hr>
 <div align="center">
   <h4 align="center">Certifications</h4><br>
   <table style="width:100%" align="center">
