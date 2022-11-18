@@ -50,6 +50,11 @@
     <td><img src="https://raw.githubusercontent.com/knavee12345/portfolio/9215032bc41b40fe221cc322caf397ec916a0da0/Icons/SoloLearn_logo.svg" width="80" /></td>
     <td><a href="https://github.com/knavee12345/knavee12345/blob/main/Certifications/HTML-SoloLearn.jpg?raw=true"><img src="https://github.com/knavee12345/knavee12345/blob/main/Certifications/HTML-SoloLearn.jpg?raw=true" width="80"/></a></td>
   </tr>
+  <tr>
+  <td>EXL-Data Analytics Associate</td>
+  <td><img src="https://www.edubridgeindia.com/public/assets/mobile_first/site/images/newhmplogo.png" width="80" /></td>
+    <td><a href="https://github.com/knavee12345/knavee12345/blob/main/Certifications/EXL%20Data%20Analytics%20Associate.jpg?raw=true"><img src="https://github.com/knavee12345/knavee12345/blob/main/Certifications/EXL%20Data%20Analytics%20Associate.jpg?raw=true" width="80"/></a></td>
+  </tr>
   </table>
 </div>
 <hr>
